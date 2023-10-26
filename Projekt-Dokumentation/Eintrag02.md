@@ -7,7 +7,7 @@
  * Daniel Borodin
  * Kirill Kuhn
  * Stephan Klassen
- * Marlon Cardell
+ * Marlon Cadell
  * Angelo Mavridis
  * Wael Eskeif
  * Luca Eberhardt
