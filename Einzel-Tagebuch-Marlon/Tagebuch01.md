@@ -8,3 +8,4 @@
 2023-10-25 | [Finales erstellen der Folien und Designen der Grafiken in Adobe und Powerpoint](../Projekt-Dokumentation/Eintrag03.md) | 5.43h
 2023-10-25 | [Folien überprüfen](../Projekt-Dokumentation/Eintrag03.md) | 0.28 h
 2023-10-25 | [Präsentation durchgehen und korrigieren](../Projekt-Dokumentation/Eintrag03.md) | 1,35h
+2023-10-27 | Vortragsvorbereitung | 0.7h
