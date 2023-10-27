@@ -6,3 +6,10 @@
 | 20.10.2023 | Erstellen der Präsentation        | 2,75 h |
 | 20.10.2023 | Zusammentragen der Präsentationen | 1,5  h |
 |            |                                   | 5,5  h |
+
+**Kalenderwoche 43**
+
+| Datum      | Tätigkeit                         | Zeit   |
+|:----------:|:---------------------------------:|:------:|
+| 25.10.2023 | Meeting                           | 1,25 h |
+|            |                                   | 1,25 h |
