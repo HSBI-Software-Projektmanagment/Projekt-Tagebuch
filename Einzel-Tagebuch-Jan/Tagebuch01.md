@@ -8,3 +8,4 @@
 | 2023-10-25 |             Übung der Präsentation und letzte änderungen              |     0,30h |
 | 2023-10-25 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag03.md) |     1,20h |
 |            |                      Tagebuch fertig geschrieben                      |     0,10h |
+| 2023-11-13 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag04.md) |     1,30h |
