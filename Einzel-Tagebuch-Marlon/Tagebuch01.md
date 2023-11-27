@@ -14,5 +14,6 @@
 2023-11-8  | Informieren über das Vermeiden von magic Numbers, Alternativen zu CamelCase und wie guter Java Doc umgesetzt wird | 2,34h 
 2023-11-13 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag04.md) | 1,3h
 2023-11-15 | Informieren über Alternativen zu Git-Flow und GitHub-Flow | 2,85h
+2023-11-17 | Gemeinsame Planung | 1h
 2023-11-20 | Informieren über, wie eine solche Umsstzung in Java aussehen kann | 1,23h
 2023-11-24 | Kurzbesprechung | 0,17h
