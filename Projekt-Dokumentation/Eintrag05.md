@@ -10,6 +10,10 @@
  * Wael Eskeif
  * Luca Eberhardt
 
+## **Abwesend**:
+ * Kirill Kuhn
+ * Angelo Mavridis
+
 ## **Thema**: *Statusmeeting und Wochenplanung*
 
 ### Ergebnisse
