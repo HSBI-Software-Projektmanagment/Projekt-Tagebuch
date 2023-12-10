@@ -14,9 +14,12 @@
 2023-11-24 | Kurzbesprechung | 0,17h
 2023-11-27 | Probleme mit dem Projekt | 2,78h
 2023-11-28 | Erstellen eines Vorschlags für die Struktur | 5,58h
-2023-12-01 | Statusupdate | 0,5h
+2023-12-01 | [Statusupdate](../Projekt-Dokumentation/Eintrag05.md) | 0,5h
 2023-12-04 | Arbet an Client2 </br> Hinzufügen der Straße zusammen mit Daniel | 7,85h
 2023-12-06 | Arbet an Client2 </br> Hinzufügen der Steuerung | 2,8h
 2023-12-07 | Ausbesserung der Seuerung | 0,5h
-2023-12-08 | Besprechung | 0,5h
+2023-12-08 | [Besprechung](../Projekt-Dokumentation/Eintrag06.md) | 0,5h
 2023-12-09 | Überarbeiten der Spielerprojektion und der Steuerung | 2,37h
+
+#### Weitere Angaben
+1,5h ~ Eine Stunde und 30 minuten
