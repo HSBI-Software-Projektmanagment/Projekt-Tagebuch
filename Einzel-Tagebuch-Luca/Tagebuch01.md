@@ -20,6 +20,9 @@
 2023-12-07 | Ausbesserung der Seuerung | 0,5h
 2023-12-08 | [Besprechung](../Projekt-Dokumentation/Eintrag06.md) | 0,5h
 2023-12-09 | Überarbeiten der Spielerprojektion und der Steuerung | 2,37h
+2023-12-13 | Hinzufügen von Kurven | 2,42h
+2023-12-14 | Hinzufügen von Hügeln | 5,38h
+2023-12-15 | [Besprechung im Team](../Projekt-Dokumentation/Eintrag07.md) und besprechung des weiteren vorgehens bezüglich Client 2 | 0,5h
 
 #### Weitere Angaben
 1,5h ~ Eine Stunde und 30 minuten
