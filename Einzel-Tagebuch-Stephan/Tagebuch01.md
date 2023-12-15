@@ -50,3 +50,10 @@
 | 08.12.2023 | Meeting                           | 0,5  h |
 | 09.12.2023 | Erstellen des Java-Clients        | 4,0  h |
 |            |                                   | 4,5  h |
+
+**Kalenderwoche 50**
+
+| Datum      | Tätigkeit                         | Zeit   |
+|:----------:|:---------------------------------:|:------:|
+| 13.12.2023 | Erstellen des Java-Clients        | 3,0  h |
+|            |                                   | 3,0  h |
