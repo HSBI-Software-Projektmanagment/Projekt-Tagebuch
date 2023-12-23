@@ -56,4 +56,13 @@
 | Datum      | Tätigkeit                         | Zeit   |
 |:----------:|:---------------------------------:|:------:|
 | 13.12.2023 | Erstellen des Java-Clients        | 3,0  h |
-|            |                                   | 3,0  h |
+| 15.12.2023 | Meeting                           | 0,25 h |
+| 17.12.2023 | Erstellen des Java-Clients        | 5,0  h |
+|            |                                   | 8,25 h |
+
+**Kalenderwoche 51**
+
+| Datum      | Tätigkeit                         | Zeit   |
+|:----------:|:---------------------------------:|:------:|
+| 23.12.2023 | Erstellen des Java-Clients        | 4    h |
+|            |                                   | 4    h |
