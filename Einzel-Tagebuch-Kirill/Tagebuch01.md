@@ -16,7 +16,7 @@
 | 2023-12-08 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag06.md) |   0,3h    |
 | 2023-12-11 | Server Logik für das Verwalten der Clients geschrieben                |   1,5h    |
 | 2023-12-18 | Tagebuch erweitert                                                    |   0,3h    |
-|            |                                                                       |           |
+| 2023-12-28 |  Server verbindung mit Client testen, fehlschlag                      |   0,5h    |
 |            |                                                                       |           |
 |            |                                                                       |           |
 |            |                                                                       |           |
