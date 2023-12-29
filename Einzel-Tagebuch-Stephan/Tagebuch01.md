@@ -66,3 +66,11 @@
 |:----------:|:---------------------------------:|:------:|
 | 23.12.2023 | Erstellen des Java-Clients        | 4    h |
 |            |                                   | 4    h |
+
+**Kalenderwoche 52**
+
+| Datum      | Tätigkeit                         | Zeit   |
+|:----------:|:---------------------------------:|:------:|
+| 27.12.2023 | Erstellen des Java-Clients        | 4    h |
+| 29.12.2023 | Erstellen des Java-Clients        | 5    h |
+|            |                                   | 9    h |
