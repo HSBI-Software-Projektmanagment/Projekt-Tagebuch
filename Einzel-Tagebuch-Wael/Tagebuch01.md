@@ -43,7 +43,7 @@ Woche **46** [13.11.2022 bis 19.11.2023]
 ---
 
 
-Woche 47 [20.11.2022 bis 26.11.2023]
+Woche **47** [20.11.2022 bis 26.11.2023]
 
 |  **Datum**          |     **Tätigkeit**         | **Dauer**|
 | ---                 | ---                       | ---      |
@@ -52,7 +52,7 @@ Woche 47 [20.11.2022 bis 26.11.2023]
 
 ---
 
-Woche 48 [27.11.2022 bis 03.11.2023]
+Woche **48** [27.11.2022 bis 03.11.2023]
 
 |  **Datum**          |     **Tätigkeit**         | **Dauer**|
 | ---                 | ---                       | ---      |
@@ -63,12 +63,40 @@ Woche 48 [27.11.2022 bis 03.11.2023]
 ---
 
 
-Woche 49 [04.12.2022 bis 10.12.2023]
+Woche **49** [04.12.2022 bis 10.12.2023]
 
 |  **Datum**          |     **Tätigkeit**         | **Dauer**|
 | ---                 | ---                       | ---      |
-|  07.11.2023         |        Die Hintergrundbilder heruntergeladen und eingeblendet |   4h     |
-|  26.11.2023         |      Meeting              |   2h     |
-|                     |                           |   6h     |
+|  07.12.2023         |Erstellen des Java-Clients |   4h     |
+|  09.12.2023         |      Meeting              |   0.5     |
+|                     |                           |   4.5h     |
 
 ---
+
+
+Woche **50** [11.12.2022 bis 17.12.2023]
+
+|  **Datum**          |     **Tätigkeit**         | **Dauer**|
+| ---                 | ---                       | ---      |
+|  13.12.2023         | Erstellen des Java-Clients|   2h     |
+|  15.12.2023         |      Meeting              |   0.5h   |
+|                     |                           |   2.5h     |
+
+---
+
+Woche **51** [18.12.2022 bis 24.12.2023]
+
+|  **Datum**          |     **Tätigkeit**         | **Dauer**|
+| ---                 | ---                       | ---      |
+|  19.12.2023         |Erstellen des Java-Clients |   4h     |
+|                     |                           |   4h     |
+
+---
+
+Woche **52** [25.12.2022 bis 31.12.2023]
+
+|  **Datum**          |     **Tätigkeit**         | **Dauer**|
+| ---                 | ---                       | ---      |
+|  27.12.2023         |Erstellen des Java-Clients |   6h     |
+|  28.12.2023         |Erstellen des Java-Clients |   2h     |
+|                     |                           |   8h     |
