@@ -23,6 +23,12 @@
 2023-12-13 | Hinzufügen von Kurven | 2,42h
 2023-12-14 | Hinzufügen von Hügeln | 5,38h
 2023-12-15 | [Besprechung im Team](../Projekt-Dokumentation/Eintrag07.md) und besprechung des weiteren vorgehens bezüglich Client 2 | 0,5h
+2023-12-22 | Refactoring an Client2 | 6h
+2023-12-23 | Refactoring an Client2 und hinzufügen eines sich nach Geschwindigkeit ändernden FOVs | 4,33h
+2023-12-25 | Refactoring an Client2 | 1,33h
+2023-12-27 | Arbeiten an Client2 | 2,75h
+2023-12-29 | Client2 NPCs und Sprites und nichtfunktionierende Kollision | 8,78h
+2023-12-30 | Beheben der Kollisionsprobleme und hinzufügen der Hud | 6h
 
 #### Weitere Angaben
 1,5h ~ Eine Stunde und 30 minuten
