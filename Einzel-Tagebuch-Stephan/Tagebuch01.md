@@ -72,5 +72,6 @@
 | Datum      | Tätigkeit                         | Zeit   |
 |:----------:|:---------------------------------:|:------:|
 | 27.12.2023 | Erstellen des Java-Clients        | 4    h |
-| 29.12.2023 | Erstellen des Java-Clients        | 5    h |
-|            |                                   | 9    h |
+| 28.12.2023 | Erstellen des Java-Clients        | 5    h |
+| 30.12.2023 | Erstellen des Java-Clients        | 2    h |
+|            |                                   | 11   h |
