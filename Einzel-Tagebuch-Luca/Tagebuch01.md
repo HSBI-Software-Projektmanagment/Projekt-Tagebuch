@@ -29,6 +29,7 @@
 2023-12-27 | Arbeiten an Client2 | 2,75h
 2023-12-29 | Client2 NPCs und Sprites und nichtfunktionierende Kollision | 8,78h
 2023-12-30 | Beheben der Kollisionsprobleme und hinzufügen der Hud | 6h
+2024-12-01 | Erstellen von Knöpfen | 4,66h
 
 #### Weitere Angaben
 1,5h ~ Eine Stunde und 30 minuten
