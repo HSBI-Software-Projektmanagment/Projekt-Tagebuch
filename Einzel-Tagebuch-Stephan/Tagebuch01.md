@@ -75,3 +75,9 @@
 | 28.12.2023 | Erstellen des Java-Clients        | 5    h |
 | 30.12.2023 | Erstellen des Java-Clients        | 2    h |
 |            |                                   | 11   h |
+
+**Kalenderwoche  1**
+| Datum      | Tätigkeit                         | Zeit   |
+|:----------:|:---------------------------------:|:------:|
+| 03.01.2024 | Erstellen des Java-Clients        | 2    h |
+|            |                                   | 2    h |
