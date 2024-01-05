@@ -34,3 +34,4 @@
 2023-12-31 | An den Sprites und Cars weiter arbeiten | 6,13h
 2023-1-1   | Probleme zu beheben versuchen (z.B. Hitboxen der Sprites) | 2,56h
 2023-1-2   | Pull requests anlegen, Code durchgehen und mergen | 4,3h
+2023-1-3   | HighScoreFix branch/Pull request und Zwischenstand besprechen | 2,14h
