@@ -108,5 +108,7 @@ Woche **1** [01.01.2024 bis 07.01.2024]
 | ---                 | ---                       | ---      |
 |  02.01.2024         |Erstellen des Java-Clients |   4h     |
 |  03.01.2024         |Erstellen des Java-Clients |   6h     |
-|                     |                           |   10h    |
+|  07.01.2024         |Erstellen des Java-Clients |   4h     |
+|                     |                           |   14h    |
+
 
