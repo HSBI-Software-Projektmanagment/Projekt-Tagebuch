@@ -35,3 +35,5 @@
 2023-1-1   | Probleme zu beheben versuchen (z.B. Hitboxen der Sprites) | 2,56h
 2023-1-2   | Pull requests anlegen, Code durchgehen und mergen | 4,3h
 2023-1-3   | HighScoreFix branch/Pull request und Zwischenstand besprechen | 2,14h
+2023-1-5   | Überblick verschaffen und das weitere Vorgehen besprechen | 1,96h
+2023-1-7   | Pair Programming (server_connection), JavaDoc und Anfang der Result-Klasse | 6,57h
