@@ -18,7 +18,7 @@
 | 2023-12-18 | Tagebuch erweitert                                                    |   0,3h    |
 | 2023-12-28 | Server verbindung mit Client testen, fehlschlag                       |   0,5h    |
 | 2024-01-04 | simple Spiel Logik vom Java Client in die ServerAnwendung übersetzt   |   2,5h    |
-| 2024-01-07 | Working on Server and helping Java Client                             | (19:30)   |
+| 2024-01-07 | Working on Server and helping Java Client                             | (19:30 - 01:00)   |
 |            |                                                                       |           |
 |            |                                                                       |           |
 |            |                                                                       |           |
