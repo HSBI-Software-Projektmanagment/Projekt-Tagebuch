@@ -12,4 +12,7 @@
 | 2023-11-29 | Rechersche zu SoketIO im generellen und zur Dokumentation                            |     1,30h |
 | 2023-12-08 | Rechersche zu JSON-Files und zur übertragung von Klassen zwischen Server und Clinent |     1,00h |
 | 2023-12-08 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag06.md)                |     0,30h |
-|            |                      Gesamtzeit invistiert                                           |    10,50h |
+| 2023-12-30 | Docker basics angeignet und stationeren server organisiert                           |     2,30h |
+| 2024-01-02 | verbindungsaufbau mit server getestet                                                |     2,00h |
+| 2024-01-08 | Implementation von server client kommunikation mit dem Java team                     |     4,00h |
+|            |                      Gesamtzeit invistiert                                           |    19,20h |
