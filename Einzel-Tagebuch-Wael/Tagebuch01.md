@@ -68,8 +68,8 @@ Woche **49** [04.12.2023 bis 10.12.2023]
 |  **Datum**          |     **Tätigkeit**         | **Dauer**|
 | ---                 | ---                       | ---      |
 |  07.12.2023         |Erstellen des Java-Clients |   4h     |
-|  09.12.2023         |      Meeting              |   0.5     |
-|                     |                           |   4.5h     |
+|  09.12.2023         |      Meeting              |   0.5    |
+|                     |                           |   4.5h   |
 
 ---
 
@@ -80,7 +80,7 @@ Woche **50** [11.12.2023 bis 17.12.2023]
 | ---                 | ---                       | ---      |
 |  13.12.2023         | Erstellen des Java-Clients|   2h     |
 |  15.12.2023         |      Meeting              |   0.5h   |
-|                     |                           |   2.5h     |
+|                     |                           |   2.5h   |
 
 ---
 
@@ -110,5 +110,12 @@ Woche **1** [01.01.2024 bis 07.01.2024]
 |  03.01.2024         |Erstellen des Java-Clients |   6h     |
 |  07.01.2024         |Erstellen des Java-Clients |   4h     |
 |                     |                           |   14h    |
+---
+
+Woche **2** [07.01.2024 bis 14.01.2024]
+|  **Datum**          |     **Tätigkeit**         | **Dauer**|
+| ---                 | ---                       | ---      |
+|  09.01.2024         |Erstellen des Java-Clients |   2.5h   |
+|                     |                           |   2.5h   |
 
 
