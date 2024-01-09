@@ -19,8 +19,8 @@
 | 2023-12-28 | Server verbindung mit Client testen, fehlschlag                       |   0,5h    |
 | 2024-01-04 | simple Spiel Logik vom Java Client in die ServerAnwendung übersetzt   |   2,5h    |
 | 2024-01-07 | Working on Server and helping Java Client                             |   5,5h    |
-| 2024-01-08 | Working on Server and Java Client - implemented Game Logic            | 22:30 - 04:00|
-|            |                                                                       |           |
+| 2024-01-08 | Working on Server and Java Client - implemented Game Logic            |   5,5h    |
+| 2024-01-09 | Trying to find out why Server has delay on Internet, but not localy   |   5h      |
 |            |                                                                       |           |
 |            |                                                                       |           |
 |            |                                                                       |           |
