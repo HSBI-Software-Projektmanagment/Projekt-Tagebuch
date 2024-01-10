@@ -21,7 +21,7 @@
 | 2024-01-07 | Working on Server and helping Java Client                             |   5,5h    |
 | 2024-01-08 | Working on Server and Java Client - implemented Game Logic            |   5,5h    |
 | 2024-01-09 | Trying to find out why Server has delay on Internet, but not localy   |   5h      |
-|            |                                                                       |           |
+| 2024-01-09 |             SOCKET IO THIS SOCKET IO THAT, WEA!                       | 22 - 02:30|
 |            |                                                                       |           |
 |            |                                                                       |           |
 |            |                                                                       |           |
