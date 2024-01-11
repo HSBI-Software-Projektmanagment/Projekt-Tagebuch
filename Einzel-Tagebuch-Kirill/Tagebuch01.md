@@ -23,7 +23,7 @@
 | 2024-01-09 | Trying to find out why Server has delay on Internet, but not localy   |   5h      |
 | 2024-01-09 |             SOCKET IO THIS SOCKET IO THAT, WEA!                       |   4,5h    |
 | 2024-01-10 | Trying to find out why Client receives slow data from server online   |   2h      |
-|            |                                                                       |           |
+| 2024-01-11 | Server läuft nun normal - RoadUpdate Package war zu groß              |   2,5h    |
 |            |                                                                       |           |
 |            |                                                                       |           |
 |            |                                                                       |           |
