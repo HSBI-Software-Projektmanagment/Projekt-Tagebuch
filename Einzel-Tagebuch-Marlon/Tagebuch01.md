@@ -26,7 +26,7 @@
 2023-12-10 | Probleme mit Raylib in Gradle versuchen zu beheben und über Alternativen (wie z.B. Libgdx) informieren | 5,73h
 2023-12-11 | Über Alternativen (wie z.B. Libgdx) informieren und Probleme mit Raylib in Gradle versuchen zu beheben | 6,34h
 2023-12-13 | Problem mit Raylib in Gradle beheben und Besprechung im Team | 5,36h
-2023-12-15 | [Teilnahme am Teammeeting](../Projekt-Dokumentation/Eintrag07.md) | 0,25h
+2023-12-15 | [Teilnahme am Teammeeting](../Projekt-Dokumentation/Eintrag07.md) | 0,5h
 2023-12-22 | Repo auf neue Pull requests überprüfen| 0,1h
 2023-12-24 | Dokumentieren | 0,9h
 2023-12-27 | Pull requests anlegen, Code durchgehen und einen Überblick schaffen | 6,72h
