@@ -15,8 +15,8 @@
 2023-11-27 | Probleme mit dem Projekt | 2,78h
 2023-11-28 | Erstellen eines Vorschlags für die Struktur | 5,58h
 2023-12-01 | [Statusupdate](../Projekt-Dokumentation/Eintrag05.md) | 0,5h
-2023-12-04 | Arbet an Client2 </br> Hinzufügen der Straße zusammen mit Daniel | 7,85h
-2023-12-06 | Arbet an Client2 </br> Hinzufügen der Steuerung | 2,8h
+2023-12-04 | Arbeit an Client2 </br> Hinzufügen der Straße zusammen mit Daniel | 7,85h
+2023-12-06 | Arbeit an Client2 </br> Hinzufügen der Steuerung | 2,8h
 2023-12-07 | Ausbesserung der Seuerung | 0,5h
 2023-12-08 | [Besprechung](../Projekt-Dokumentation/Eintrag06.md) | 0,5h
 2023-12-09 | Überarbeiten der Spielerprojektion und der Steuerung | 2,37h
@@ -29,7 +29,12 @@
 2023-12-27 | Arbeiten an Client2 | 2,75h
 2023-12-29 | Client2 NPCs und Sprites und nichtfunktionierende Kollision | 8,78h
 2023-12-30 | Beheben der Kollisionsprobleme und hinzufügen der Hud | 6h
-2024-12-01 | Erstellen von Knöpfen | 4,66h
+2024-01-01 | Erstellen von Knöpfen und Arbeiten an Menüs | 7h
+2024-01-02 | Bewegen des Hintergrunds und Besprechung von Client2 | 5,03h
+2024-01-04 | Vorgehen bezüglich der Serververbindung | 2h
+2024-01-09 | [Team Besprechung](../Projekt-Dokumentation/Eintrag08.md) und weiteres Arbeiten | 4,75h
+2024-01-10 | Arbeiten and der Serververbindung | 2,17h
+2024-01-11 | Versuchen eine JSON Library hinzuzufügen | 3,83h
 
 #### Weitere Angaben
 1,5h ~ Eine Stunde und 30 minuten
