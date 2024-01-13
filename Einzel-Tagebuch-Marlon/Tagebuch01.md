@@ -37,3 +37,7 @@
 2023-1-3   | HighScoreFix branch/Pull request und Zwischenstand besprechen | 2,14h
 2023-1-5   | Überblick verschaffen und das weitere Vorgehen besprechen | 1,96h
 2023-1-7   | Pair Programming (server_connection), JavaDoc und Anfang der Result-Klasse | 6,57h
+2023-1-8   | [Teilnahme am Teammeeting](../Projekt-Dokumentation/Eintrag08.md) | 2h
+2023-1-9   | ResultsScreen und PlayerNameScreen coden | 4,73h
+2023-1-9   | Im Team meinen zuvor geschrieben Code besprechen und PlayerName an den Server senden| 2,13h
+2023-1-10  | JavaDoc einfügen | 0,24h
