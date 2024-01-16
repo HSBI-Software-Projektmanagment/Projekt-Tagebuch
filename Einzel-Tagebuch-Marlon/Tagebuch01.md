@@ -41,3 +41,5 @@
 2023-1-9   | ResultsScreen und PlayerNameScreen coden | 4,73h
 2023-1-9   | Im Team meinen zuvor geschrieben Code besprechen und PlayerName an den Server senden| 2,13h
 2023-1-10  | JavaDoc einfügen | 0,24h
+2023-1-15  | Die Result-Daten und Sprites vom Server verarbeiten und integrieren | 5,84h
+2023-1-16  | Die Result-Daten und Sprites vom Server verarbeiten und integrieren | 3,32h
