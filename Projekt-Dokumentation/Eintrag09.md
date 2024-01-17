@@ -1,5 +1,5 @@
 # **Eintrag 09**
-**2024-01-17** | 17:30 | (2h)
+**2024-01-17** | 17:30 - 20:00| (2,30h)
 
 ## **Anwesend**:
 
@@ -27,14 +27,14 @@ Präsentation:
 
 Server:
 * Position ungenau beim anderen Client
-* Gegner wird nicht angezeigt
 
 Java Client:
 * Zeit nicht richtig angezeigt
-* 
+* Gegner wird nicht angezeigt
 
 C++ Client:
-* 
+* Verbindungsprobleme zum Server
+* Doppelverbindung Socket io Problem, konnte von uns aber nicht umgangen werden
 
 
 ### Letztes meeting
