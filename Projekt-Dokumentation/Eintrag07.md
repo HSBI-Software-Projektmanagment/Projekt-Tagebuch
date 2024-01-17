@@ -19,10 +19,6 @@
 
 ### Ergebnisse
 
-Server:
-* 
-
-
 Client 1 - Java:
 * Socket .io wurde implementiert
 

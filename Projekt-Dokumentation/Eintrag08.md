@@ -31,5 +31,5 @@ Server:
 
 ### Nächstes meeting
 
-** nicht fergelegt **
+** 17.01.24 **
 - Abgabe Meeting
