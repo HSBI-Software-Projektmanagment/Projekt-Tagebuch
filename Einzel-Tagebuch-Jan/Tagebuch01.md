@@ -18,5 +18,7 @@
 | 2023-12-15 |                      Protokoll des Teammeetings                       |     0,15h |
 | 2023-01-09 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag08.md) |        2h |
 | 2023-01-09 |                      Protokoll des Teammeetings                       |     0,15h |
+| 2023-01-17 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag09.md) |        2h |
+| 2023-01-17 |                      Protokoll des Teammeetings                       |     0,15h |
 |------------|-----------------------------------------------------------------------|-----------|
-|            |                      Gesamtzeit invistiert                            |    14,15h |
+|            |                      Gesamtzeit invistiert                            |        Xh |
