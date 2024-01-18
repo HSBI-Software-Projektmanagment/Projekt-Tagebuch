@@ -26,5 +26,6 @@
 | 2024-01-11 |            Server läuft nun normal - RoadUpdate Package war zu groß            |      2,5h |
 | 2024-01-14 |         Server Code aufgeräumt, refactored und mit JavaDoc kommentiert         |        5h |
 | 2024-01-16 |              Erste laufende Server Version auf den Main gemerged               |        1h |
-| 2024-01-17 |                Mit dem Projekt Team die Vorstellung vorbereitet                |       xxh |
-| GESAMT     |                           Die gesamt erbrachte Zeit                            |    51,31h |
+| 2024-01-17 |                Mit dem Projekt Team die Vorstellung vorbereitet                |        2h |
+| 2024-01-18 | [Teilnahme an dem Teammeeting](Projekt-Dokumentation/Eintrag10.md)             |        1h |
+| GESAMT     |                           Die gesamt erbrachte Zeit                            |    54,31h |
