@@ -25,6 +25,8 @@ Letzte To-Do's:
 * Beschreibung der Softwarestruktur wurde als Read me hinzugefügt
 * Letzte Ergänzungen bei der Dokumentation der Aufgabenverteilung
 
+Letzte Fehler behebung:
+* Rundenanzahl passte nicht
 
 ### Präsentation
 
