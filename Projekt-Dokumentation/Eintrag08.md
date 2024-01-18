@@ -20,14 +20,14 @@
 ### Ergebnisse
 
 Java Client:
-* fast fertig, nur noch letzte verbindung zum server
+* Grundfunktionen sind fertig
+* Schwierigkeiten mit dem verbindung zum server
 
 C++ Client:
-* noch paar Probleme aber auch fast fertig
+* Größere Probleme beim Verbinden mit dem Server
 
 Server:
-* Server hatte noch anlaufschwierigkeiten
-* ist aber mitlerweile behoben
+* Server hatte anlaufschwierigkeiten, ist aber jetzt Funktionsfähig
 
 ### Nächstes meeting
 

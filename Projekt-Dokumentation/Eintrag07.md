@@ -23,9 +23,8 @@ Client 1 - Java:
 * Socket .io wurde implementiert
 
 Client 2 - C++:
-* Spielt funktioniert
-
-* npc's hinzufügen
+* Singleplayer Spiel funktioniert
+* npc's wurden hinzufügen
 * Socket.io muss implementiert und verbunden werden
 
 ### Nächstes meeting

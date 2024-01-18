@@ -18,6 +18,10 @@
 
 ### Ergebnisse
 
+Server:
+* Projekt steht
+* Projekt wurde in Gradle umgestzt, da man Socket.io besser implementieren kann
+
 Client 1:
 * Umsetzung des Spiels in Java begonnen
 * Nutzung von RayLib Methoden erleichtern die Umsetzung
@@ -26,9 +30,6 @@ Client 2:
 * Anfängliche Probleme mit dem Aufsätzen der RayLib Umgebung in Windows, Linux hatte keine Probleme
 * Nächste Schritte: Umsetzung des Spiels in C++ mit RayLib
 
-Server:
-* Projekt steht
-* Projekt wurde in Gradle umgestzt, da man Socket.io besser implementieren kann
 
 ### Nächstes meeting
 
