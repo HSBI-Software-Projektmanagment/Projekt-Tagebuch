@@ -35,6 +35,13 @@
 2024-01-09 | [Team Besprechung](../Projekt-Dokumentation/Eintrag08.md) und weiteres Arbeiten | 4,75h
 2024-01-10 | Arbeiten and der Serververbindung | 2,17h
 2024-01-11 | Versuchen eine JSON Library hinzuzufügen | 3,83h
+2024-01-14 | Hinzufügen der JSON Library | 2h
+2024-01-15 | Ausbauen der Serververbindung | 3,78h
+| | Hinzufügen einer Textfeld-Klasse | 3,25h
+2024-01-15 | Entfernen von "second elapsed" und gescheiterter Versuch Globale Variablen zu benutzen um die Texturen zu Laden | 2h
+| | Texturen in Globalen Variablen geladen und Serververbindung ausgebaut | 7,75h
+2024-01-17 | Erstellen von Auto Texturen, Versuch die Serververbindung auszuarbeiten, [Teilnahme am Meeting](../Projekt-Dokumentation/Eintrag09.md) | 10,5h
+2024-01-18 | Erreichen einer sinnvollen Serververbindung | 4,75h
 
 #### Weitere Angaben
 1,5h ~ Eine Stunde und 30 minuten
