@@ -20,4 +20,5 @@
 | 2023-12-15 | [Besprechung im Team](../Projekt-Dokumentation/Eintrag07.md) und besprechung des weiteren vorgehens bezüglich Client 2   |     0,5h  |
 | 2024-01-02 | Neuen Kompiler kompiliert, um Linux funktionalität zu gewährleisten                                                      |     4,00h |
 | 2024-01-09 | [Team Besprechung](../Projekt-Dokumentation/Eintrag08.md) und weiteres Arbeiten                                          |     4,75h |
-| 2024-01-18 | Tagebuch nachgeholt und fertig geschrieben                                                                               |     1,00h |
+| 2024-01-17 | Kleine Bugfixes für Linux-Funktionalität, [Teilnahme am Meeting](../Projekt-Dokumentation/Eintrag09.md)                  |     3,00h |
+| 2024-01-18 | Tagebuch nachgeholt und fertig geschrieben, [Teilnahme am Meeting](../Projekt-Dokumentation/Eintrag10.md)                |     2,00h |
