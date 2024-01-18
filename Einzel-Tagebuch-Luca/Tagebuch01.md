@@ -42,6 +42,7 @@
 | | Texturen in Globalen Variablen geladen und Serververbindung ausgebaut | 7,75h
 2024-01-17 | Erstellen von Auto Texturen, Versuch die Serververbindung auszuarbeiten, [Teilnahme am Meeting](../Projekt-Dokumentation/Eintrag09.md) | 10,5h
 2024-01-18 | Erreichen einer sinnvollen Serververbindung | 4,75h
+| | Letzte Arbeiten am Projekt und README | 5,5h
 
 #### Weitere Angaben
 1,5h ~ Eine Stunde und 30 minuten
