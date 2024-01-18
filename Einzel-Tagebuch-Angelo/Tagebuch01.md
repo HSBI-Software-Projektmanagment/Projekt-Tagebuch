@@ -20,5 +20,6 @@
 | 2024-01-11 | Problem der vorigen tage gelöst gesendete Datei war zu groß                                  |     2,00h |
 | 2024-01-15 | Probleme mit den Enviorment Sprites glöst und dem Java team bei der Implementierung geholfen |     5,00h |
 | 2024-01-17 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag09.md)                        |     2.00h |
-| 2024-01-18 | versucht dem c team zu helfen multiplayer zu implementieren                                  |     3,00  |
-|            |                      Gesamtzeit invistiert                                                   |    40,50h |
+| 2024-01-18 | versucht dem c team zu helfen multiplayer zu implementieren                                  |     3,00h |
+| 2024-01-18 | [Teilnahme an dem Teammeeting](../Projekt-Dokumentation/Eintrag10.md)                        |     1.30h |
+|            |                      Gesamtzeit invistiert                                                   |    42,20h |
