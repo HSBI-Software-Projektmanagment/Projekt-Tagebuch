@@ -46,3 +46,5 @@
 2023-1-17  | [Teilnahme am Teammeeting](../Projekt-Dokumentation/Eintrag09.md) | 2,5h
 2023-1-17  | Code Refactoring und Zeiten berechnen für die ResultsScreen-Klasse | 3,53h
 2023-1-18  | Testen der Spielfunktionen und Dokumentation | 3,47h
+2023-1-18  | Dokumentation, Refactoring und Repo prüfen | 1,21h
+2023-1-18  | [Teilnahme am Teammeeting](../Projekt-Dokumentation/Eintrag10.md) | 1,5h
